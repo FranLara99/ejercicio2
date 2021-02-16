@@ -1,0 +1,2 @@
+Fichero docu3 para el apartado nº5 de la actividad 2
+Realizo cambios añadiendo varias líneas en el fichero docu3.txt y lo valido solo a el
